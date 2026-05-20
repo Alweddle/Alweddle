@@ -93,14 +93,6 @@
 
 [![CV en ligne](https://img.shields.io/badge/CV%20interactif-alweddle.github.io-00d4aa?style=flat&logo=github)](https://alweddle.github.io)
 [![Email](https://img.shields.io/badge/Email-alexandre.chretien60%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexandre.chretien60@gmail.com)
-
----
-
-
-### 🌐 Me retrouver
-
-[![CV](https://img.shields.io/badge/CV%20Interactif-alweddle.github.io-00d4aa?style=flat&logo=github&logoColor=white)](https://alweddle.github.io)
-[![Email](https://img.shields.io/badge/Email-alexandre.chretien60%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexandre.chretien60@gmail.com)
 [![Solar](https://img.shields.io/badge/☀️%20Solar%20Dashboard-Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)](https://datastudio.google.com/reporting/83718eaa-c527-4e4a-a45c-089a4e793b75)
 
 ---
