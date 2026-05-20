@@ -58,6 +58,7 @@
 | 2008 → 2021 | **La Halle SAS** | Analyste BI & Contrôleur de Gestion |
 
 ---
+<div align="center">
 
 ## 📬 Me contacter
 
@@ -66,4 +67,31 @@
 
 ---
 
+
+### 🌐 Me retrouver
+
+[![CV](https://img.shields.io/badge/CV%20Interactif-alweddle.github.io-00d4aa?style=flat&logo=github&logoColor=white)](https://alweddle.github.io)
+[![Email](https://img.shields.io/badge/Email-alexandre.chretien60%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexandre.chretien60@gmail.com)
+[![Solar](https://img.shields.io/badge/☀️%20Solar%20Dashboard-Looker%20Studio-4285F4?style=flat&logo=googleanalytics&logoColor=white)](https://datastudio.google.com/reporting/83718eaa-c527-4e4a-a45c-089a4e793b75)
+
+---
+
+### 📊 Activité
+
+![Visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Alweddle.Alweddle&style=flat&color=00d4aa)
+![GitHub followers](https://img.shields.io/github/followers/Alweddle?style=flat&color=7c3aed&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Alweddle?style=flat&color=f59e0b&logo=github)
+
+---
+
+### ☀️ Projet solaire en live
+
+![Production](https://img.shields.io/badge/Production%20cumulée-7%20352%20kWh-f59e0b?style=flat)
+![Gains](https://img.shields.io/badge/Gains%20cumulés-1%20353%20€-00d4aa?style=flat)
+![Depuis](https://img.shields.io/badge/Depuis-Août%202024-7c3aed?style=flat)
+
+---
+
 *📍 Compiègne, France · Permis B · Ouvert aux opportunités*
+
+</div>
