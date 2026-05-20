@@ -58,6 +58,7 @@
 | 2008 → 2021 | **La Halle SAS** | Analyste BI & Contrôleur de Gestion |
 
 ---
+
 <div align="center">
 
 ## 📬 Me contacter
@@ -93,5 +94,7 @@
 ---
 
 *📍 Compiègne, France · Permis B · Ouvert aux opportunités*
+
+![Snake animation](https://github.com/Alweddle/Alweddle/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
