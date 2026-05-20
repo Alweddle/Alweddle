@@ -21,10 +21,29 @@
 
 **Data & BI**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 ![MicroStrategy](https://img.shields.io/badge/MicroStrategy-C8242A?style=flat&logoColor=white)
+
+**Langages**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Web & Front**
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Bases de données**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white)
 
 **Cloud & Infrastructure**
@@ -36,15 +55,21 @@
 
 **Outils métier**
 
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoftsharepoint&logoColor=white)
 ![Teams](https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoftteams&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=microsoftpowerautomate&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat&logo=zendesk&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
+![AirCall](https://img.shields.io/badge/AirCall-00B388?style=flat&logoColor=white)
+![Harry 2](https://img.shields.io/badge/Harry%202-AS400-1F4E79?style=flat&logoColor=white)
+![IBM AS/400](https://img.shields.io/badge/IBM%20AS%2F400-052FAD?style=flat&logo=ibm&logoColor=white)
 
 **Dev & Domotique**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Redmine](https://img.shields.io/badge/Redmine-B32024?style=flat&logo=redmine&logoColor=white)
 ![Jeedom](https://img.shields.io/badge/Jeedom-00b050?style=flat&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 
@@ -52,10 +77,13 @@
 
 ## 💼 Parcours
 
-| Période | Entreprise | Rôle |
+| Période | Entreprise / École | Rôle |
 |---|---|---|
 | 2021 → aujourd'hui | **Flexifleet** | Référent ERP, Contrôle de Gestion & IT |
 | 2008 → 2021 | **La Halle SAS** | Analyste BI & Contrôleur de Gestion |
+| 2007 → 2008 | **Université Jules Vernes · Beauvais** | Licence Pro Contrôleur de Gestion |
+| 2005 → 2007 | **Lycée Jean Racine · Montdidier** | BTS Assistant de Gestion PME-PMI |
+| 2004 → 2005 | **Lycée François Truffaut · Beauvais** | Baccalauréat Économique et Social |
 
 ---
 
