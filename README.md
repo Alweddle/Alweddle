@@ -9,13 +9,37 @@
 
 ## 🚀 Ce que je fais
 
-- 🏗 **Pilotage ERP** — Construction from scratch sur MongoDB/GCP, coordination prestataires, conduite du changement
-- 📊 **Business Intelligence** — Power BI, Looker, MicroStrategy, Teradata, reporting multi-source
+**Professionnel**
+
+- 🏗 **Pilotage ERP (FlexUp)** — Construction from scratch sur MongoDB/GCP, coordination prestataires, conduite du changement ; stack technique : MongoDB Atlas, Google Cloud Platform, API REST (HubSpot, Zendesk, AirCall, DocuWare), MongoDB Charts pour le reporting opérationnel embarqué
+- 📊 **Business Intelligence** — Power BI, Looker Studio, MicroStrategy, Teradata, reporting multi-source, pipelines ETL vers Google Sheets
 - 🧮 **Contrôle de gestion** — Clôtures, budgets, KPIs transverses finance/logistique/commerce
 - 🔧 **Gestion IT** — Infrastructure réseau, intégrations API (HubSpot, Zendesk, AirCall, DocuWare)
+- 🖥 **Gestion du parc informatique** — Administration du tenant Microsoft 365 (licences, utilisateurs, sécurité), commande et déploiement de matériel, support utilisateurs, monitoring d'un parc de 70 machines avec SOC managé (SYNA)
 - 🤖 **IA & No-code** — Automatisation, workflows, veille active sur les nouveaux outils
 
+**Homelab & projets perso**
+
+- 🖥️ **Infrastructure** — Serveur Proxmox VE 9.x, conteneurs LXC (InfluxDB 2.x, Grafana 11.x, WireGuard VPN, Pi-hole), accès distant sécurisé via WireGuard + DuckDNS, supervision externe Healthchecks.io
+- 💾 **NAS & sauvegardes** — NAS Synology DS216j : sauvegarde automatisée photos/vidéos iPhone via Synology Photos, sauvegarde des VMs et conteneurs Proxmox sur disque USB 500 Go (LaCie), synchronisation sélective vers Google Drive ; politique de rétention multi-niveaux
+- 📈 **Monitoring** — Dashboards Grafana full-stack (CPU, RAM, S.M.A.R.T., températures, VMs/LXC, réseau), Telegraf, alertes email, Healthchecks.io
+- ☀️ **Suivi solaire** — Pipeline OpenDTU → Jeedom → CSV → Google Sheets → Looker Studio, détection automatique de records, README dynamique via Apps Script
+- 🏠 **Domotique avancée** — Jeedom sur Raspberry Pi, équipements Zigbee/WiFi/Tuya/eWeLink, scénarios PHP complexes, surveillance canicule, monitoring équipements
+- 🔌 **Reverse engineering IoT** *(repo à venir)* — Protocole BroadLink (UDP), décodage binaire de trames, construction de plugin Jeedom from scratch (adoucisseur Thalassa Lylo en cours), intégration compteur wM-Bus Itron Cyble 5
+
+
 ---
+
+## 🗂 Mes projets GitHub
+
+| Repo | Description | Stack |
+|---|---|---|
+| [☀️ solar-dashboard](https://github.com/Alweddle/solar-dashboard) | Monitoring photovoltaïque — pipeline OpenDTU → Jeedom → Looker Studio, stats automatiques | PHP · Apps Script · Looker |
+| [🖥️ proxmox-admin-toolkit](https://github.com/Alweddle/proxmox-admin-toolkit) | Dashboard Grafana complet pour Proxmox VE + Telegraf S.M.A.R.T. + alertes email | InfluxDB · Grafana · Telegraf |
+| [🏠 jeedom-admin-toolkit](https://github.com/Alweddle/jeedom-admin-toolkit) | Outils de monitoring Jeedom — surveillance équipements, heartbeat Healthchecks.io | PHP · Jeedom · Telegram |
+| [🌡️ jeedom-canicule](https://github.com/Alweddle/jeedom-canicule) | Scénario Jeedom d'alertes progressives canicule avec widget dashboard | PHP · Jeedom · Telegram |
+| [💻 alweddle.github.io](https://github.com/Alweddle/Alweddle.github.io) | CV interactif animé — HTML/CSS pur, hébergé sur GitHub Pages | HTML · CSS |
+
 
 ## 🛠 Stack
 
@@ -25,7 +49,6 @@
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 ![MicroStrategy](https://img.shields.io/badge/MicroStrategy-C8242A?style=flat&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 
 **Langages**
 
@@ -48,14 +71,23 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 
 **Cloud & Infrastructure**
 
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft&logoColor=white)
+
+**Homelab & infrastructure**
+
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Telegraf](https://img.shields.io/badge/Telegraf-22ADF6?style=flat&logo=influxdb&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
+![DuckDNS](https://img.shields.io/badge/DuckDNS-2196F3?style=flat&logoColor=white)
+![Healthchecks.io](https://img.shields.io/badge/Healthchecks.io-3d9970?style=flat&logoColor=white)
+![Synology](https://img.shields.io/badge/Synology-B5B5B6?style=flat&logo=synology&logoColor=white)
 
 **Outils métier**
 
@@ -75,8 +107,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Redmine](https://img.shields.io/badge/Redmine-B32024?style=flat&logo=redmine&logoColor=white)
 ![Jeedom](https://img.shields.io/badge/Jeedom-00b050?style=flat&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
 
 ---
 
@@ -89,6 +120,18 @@
 | 2007 → 2008 | **Université Jules Vernes · Beauvais** | Licence Pro Contrôleur de Gestion |
 | 2005 → 2007 | **Lycée Jean Racine · Montdidier** | BTS Assistant de Gestion PME-PMI |
 | 2004 → 2005 | **Lycée François Truffaut · Beauvais** | Baccalauréat Économique et Social |
+
+---
+
+## 🔥 Autodidacte avant tout
+
+Le diplôme s'est arrêté en 2008. La formation, jamais.
+
+Depuis le BTS, tout ce que je maîtrise en infrastructure, domotique, BI, dev et cloud, je l'ai appris **seul, par curiosité, la nuit et le week-end** — en cassant des choses, en lisant des docs, en recommençant. Pas par obligation professionnelle : par **passion**.
+
+Ce GitHub en est la preuve concrète : chaque repo est un projet réel, documenté, qui tourne chez moi en production.
+
+> *Pour moi, la tech n'est pas un métier. C'est un terrain de jeu permanent.*
 
 ---
 
@@ -118,8 +161,7 @@
 
 ---
 
-*📍 Compiègne, France · Permis B · Ouvert aux opportunités*
-
 ![Snake animation](https://github.com/Alweddle/Alweddle/blob/output/github-contribution-grid-snake-dark.svg)
 
+*📍 Compiègne, France · Permis B · Ouvert aux opportunités*
 </div>
